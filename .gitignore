@@ -2,14 +2,6 @@
 /T32
 /Images
 /.idea
-K_2.jpg
-K_4.jpg
-K_8.jpg
-K_16.jpg
-K_32.jpg
-K_64.jpg
-K_128.jpg
-K_256.jpg
-K_512.jpg
 ses2.py
 rgb.py
+.gitignore
